@@ -1,0 +1,5 @@
+Mentsd a megadott(m4-4 vagy m4-8) állományt 
+saját meghajtódra és nevezd át SajatNev_20251124 névre.
+Pl.: MadaraszIstvan_20251124
+Ezen az állományon végezd el a feladat_X.pdf állományba 
+található feladatokat.

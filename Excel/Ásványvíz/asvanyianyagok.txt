@@ -1,0 +1,20 @@
+	Ásványianyag-tartalom 1 literben
+Ásványvizek	Ca2+	K+	Mg2+	Na+
+	Kalcium	Kálium	Magnézium	Nátrium
+Fonyód	35,1	3,15	15,05	148
+Szentkirály	71,1	0,7	23,8	22
+Csány	72	1,05	26,95	44
+Zalaszentgrót	90,9	2,45	43,4	16
+Óbuda	102,6	1,75	46,9	12
+Parád	169,2	9,1	34,3	164
+Margitsziget	171,9	15,4	39,2	146
+Visegrád	183,6	7,35	61,95	66
+Balf	188,1	10,85	52,15	186
+Lillafüred	103,5	0	20,3	18
+Kékkút	315	12,95	57,05	38
+Mizse	67,5	1,05	23,8	16
+
+Legnagyobb
+Lelőhelye
+
+Átlagos
